@@ -1,0 +1,951 @@
+{
+    "text": "ООО «Наша фирма» УТВЕРЖДАЮ Генеральный директор  АКТ М.Н. Фелоров 11.11.20 1 №7 11.11.2014 т. Йошкар-Ола  © выделении документов к уничтожению  На основании перечня документов № 12 «Документы по учету товарно-материальных ценностей со сроком хранения 3 года» отобраны к уничтожению как не имеющие прак- тического значения и НЗУЧНО'ИСТОРИЧССКОЙ ценности документы:                   Заголовок дела. ГДата дела или край-|Кол-во дел (томов) _ |Срок хранения и №№[Примечание ‘ние даты дел [статей по перчню. Итого. дел за годы. Описи дел за годы утверждены генеральным директором. Председатель комиссии И. И. Иванов (подпись). Члены комиссии В. В. Пстров (подпись)  П. П. Потапов ‚дпись)             \f",
+    "tokens": [
+        [
+            {
+                "text": "ООО",
+                "position": {
+                    "left": 40,
+                    "top": 107,
+                    "width": 43,
+                    "height": 15
+                },
+                "offset": 4
+            },
+            {
+                "text": "«Наша",
+                "position": {
+                    "left": 88,
+                    "top": 108,
+                    "width": 57,
+                    "height": 14
+                },
+                "offset": 5
+            },
+            {
+                "text": "фирма»",
+                "position": {
+                    "left": 151,
+                    "top": 108,
+                    "width": 64,
+                    "height": 18
+                },
+                "offset": 6
+            },
+            {
+                "text": "УТВЕРЖДАЮ",
+                "position": {
+                    "left": 465,
+                    "top": 102,
+                    "width": 128,
+                    "height": 17
+                },
+                "offset": 7
+            },
+            {
+                "text": "Генеральный",
+                "position": {
+                    "left": 465,
+                    "top": 125,
+                    "width": 111,
+                    "height": 19
+                },
+                "offset": 9
+            },
+            {
+                "text": "директор",
+                "position": {
+                    "left": 582,
+                    "top": 129,
+                    "width": 78,
+                    "height": 15
+                },
+                "offset": 10
+            },
+            {
+                "text": "АКТ",
+                "position": {
+                    "left": 40,
+                    "top": 154,
+                    "width": 39,
+                    "height": 14
+                },
+                "offset": 14
+            },
+            {
+                "text": "М.Н.",
+                "position": {
+                    "left": 560,
+                    "top": 148,
+                    "width": 40,
+                    "height": 14
+                },
+                "offset": 15
+            },
+            {
+                "text": "Фелоров",
+                "position": {
+                    "left": 607,
+                    "top": 148,
+                    "width": 73,
+                    "height": 19
+                },
+                "offset": 16
+            },
+            {
+                "text": "11.11.20",
+                "position": {
+                    "left": 43,
+                    "top": 177,
+                    "width": 66,
+                    "height": 14
+                },
+                "offset": 18
+            },
+            {
+                "text": "1",
+                "position": {
+                    "left": 116,
+                    "top": 177,
+                    "width": 10,
+                    "height": 14
+                },
+                "offset": 19
+            },
+            {
+                "text": "№7",
+                "position": {
+                    "left": 138,
+                    "top": 177,
+                    "width": 30,
+                    "height": 14
+                },
+                "offset": 20
+            },
+            {
+                "text": "11.11.2014",
+                "position": {
+                    "left": 467,
+                    "top": 171,
+                    "width": 87,
+                    "height": 15
+                },
+                "offset": 21
+            },
+            {
+                "text": "т.",
+                "position": {
+                    "left": 40,
+                    "top": 205,
+                    "width": 11,
+                    "height": 9
+                },
+                "offset": 23
+            },
+            {
+                "text": "Йошкар-Ола",
+                "position": {
+                    "left": 59,
+                    "top": 196,
+                    "width": 107,
+                    "height": 22
+                },
+                "offset": 24
+            },
+            {
+                "text": "©",
+                "position": {
+                    "left": 78,
+                    "top": 297,
+                    "width": 13,
+                    "height": 15
+                },
+                "offset": 28
+            },
+            {
+                "text": "выделении",
+                "position": {
+                    "left": 97,
+                    "top": 302,
+                    "width": 91,
+                    "height": 11
+                },
+                "offset": 29
+            },
+            {
+                "text": "документов",
+                "position": {
+                    "left": 195,
+                    "top": 302,
+                    "width": 99,
+                    "height": 14
+                },
+                "offset": 30
+            },
+            {
+                "text": "к",
+                "position": {
+                    "left": 300,
+                    "top": 302,
+                    "width": 9,
+                    "height": 10
+                },
+                "offset": 31
+            },
+            {
+                "text": "уничтожению",
+                "position": {
+                    "left": 315,
+                    "top": 302,
+                    "width": 118,
+                    "height": 14
+                },
+                "offset": 32
+            },
+            {
+                "text": "На",
+                "position": {
+                    "left": 41,
+                    "top": 367,
+                    "width": 22,
+                    "height": 14
+                },
+                "offset": 36
+            },
+            {
+                "text": "основании",
+                "position": {
+                    "left": 70,
+                    "top": 371,
+                    "width": 89,
+                    "height": 10
+                },
+                "offset": 37
+            },
+            {
+                "text": "перечня",
+                "position": {
+                    "left": 168,
+                    "top": 371,
+                    "width": 66,
+                    "height": 14
+                },
+                "offset": 38
+            },
+            {
+                "text": "документов",
+                "position": {
+                    "left": 242,
+                    "top": 371,
+                    "width": 99,
+                    "height": 14
+                },
+                "offset": 39
+            },
+            {
+                "text": "№",
+                "position": {
+                    "left": 349,
+                    "top": 367,
+                    "width": 19,
+                    "height": 14
+                },
+                "offset": 40
+            },
+            {
+                "text": "12",
+                "position": {
+                    "left": 378,
+                    "top": 367,
+                    "width": 16,
+                    "height": 14
+                },
+                "offset": 41
+            },
+            {
+                "text": "«Документы",
+                "position": {
+                    "left": 403,
+                    "top": 367,
+                    "width": 105,
+                    "height": 18
+                },
+                "offset": 42
+            },
+            {
+                "text": "по",
+                "position": {
+                    "left": 517,
+                    "top": 371,
+                    "width": 19,
+                    "height": 10
+                },
+                "offset": 43
+            },
+            {
+                "text": "учету",
+                "position": {
+                    "left": 544,
+                    "top": 371,
+                    "width": 47,
+                    "height": 14
+                },
+                "offset": 44
+            },
+            {
+                "text": "товарно-материальных",
+                "position": {
+                    "left": 598,
+                    "top": 371,
+                    "width": 196,
+                    "height": 14
+                },
+                "offset": 45
+            },
+            {
+                "text": "ценностей",
+                "position": {
+                    "left": 41,
+                    "top": 390,
+                    "width": 86,
+                    "height": 15
+                },
+                "offset": 47
+            },
+            {
+                "text": "со",
+                "position": {
+                    "left": 134,
+                    "top": 394,
+                    "width": 18,
+                    "height": 10
+                },
+                "offset": 48
+            },
+            {
+                "text": "сроком",
+                "position": {
+                    "left": 158,
+                    "top": 393,
+                    "width": 59,
+                    "height": 15
+                },
+                "offset": 49
+            },
+            {
+                "text": "хранения",
+                "position": {
+                    "left": 225,
+                    "top": 393,
+                    "width": 77,
+                    "height": 15
+                },
+                "offset": 50
+            },
+            {
+                "text": "3",
+                "position": {
+                    "left": 309,
+                    "top": 389,
+                    "width": 8,
+                    "height": 15
+                },
+                "offset": 51
+            },
+            {
+                "text": "года»",
+                "position": {
+                    "left": 325,
+                    "top": 393,
+                    "width": 45,
+                    "height": 12
+                },
+                "offset": 52
+            },
+            {
+                "text": "отобраны",
+                "position": {
+                    "left": 376,
+                    "top": 389,
+                    "width": 81,
+                    "height": 19
+                },
+                "offset": 53
+            },
+            {
+                "text": "к",
+                "position": {
+                    "left": 465,
+                    "top": 394,
+                    "width": 8,
+                    "height": 9
+                },
+                "offset": 54
+            },
+            {
+                "text": "уничтожению",
+                "position": {
+                    "left": 480,
+                    "top": 394,
+                    "width": 118,
+                    "height": 14
+                },
+                "offset": 55
+            },
+            {
+                "text": "как",
+                "position": {
+                    "left": 604,
+                    "top": 393,
+                    "width": 27,
+                    "height": 11
+                },
+                "offset": 56
+            },
+            {
+                "text": "не",
+                "position": {
+                    "left": 638,
+                    "top": 394,
+                    "width": 18,
+                    "height": 10
+                },
+                "offset": 57
+            },
+            {
+                "text": "имеющие",
+                "position": {
+                    "left": 663,
+                    "top": 393,
+                    "width": 80,
+                    "height": 12
+                },
+                "offset": 58
+            },
+            {
+                "text": "прак-",
+                "position": {
+                    "left": 750,
+                    "top": 394,
+                    "width": 45,
+                    "height": 14
+                },
+                "offset": 59
+            },
+            {
+                "text": "тического",
+                "position": {
+                    "left": 39,
+                    "top": 417,
+                    "width": 86,
+                    "height": 10
+                },
+                "offset": 61
+            },
+            {
+                "text": "значения",
+                "position": {
+                    "left": 130,
+                    "top": 417,
+                    "width": 76,
+                    "height": 10
+                },
+                "offset": 62
+            },
+            {
+                "text": "и",
+                "position": {
+                    "left": 213,
+                    "top": 417,
+                    "width": 9,
+                    "height": 10
+                },
+                "offset": 63
+            },
+            {
+                "text": "НЗУЧНО'ИСТОРИЧССКОЙ",
+                "position": {
+                    "left": 229,
+                    "top": 413,
+                    "width": 182,
+                    "height": 18
+                },
+                "offset": 64
+            },
+            {
+                "text": "ценности",
+                "position": {
+                    "left": 418,
+                    "top": 417,
+                    "width": 77,
+                    "height": 11
+                },
+                "offset": 65
+            },
+            {
+                "text": "документы:",
+                "position": {
+                    "left": 501,
+                    "top": 417,
+                    "width": 98,
+                    "height": 14
+                },
+                "offset": 66
+            },
+            {
+                "text": "Заголовок",
+                "position": {
+                    "left": 40,
+                    "top": 458,
+                    "width": 64,
+                    "height": 11
+                },
+                "offset": 91
+            },
+            {
+                "text": "дела.",
+                "position": {
+                    "left": 108,
+                    "top": 462,
+                    "width": 28,
+                    "height": 8
+                },
+                "offset": 92
+            },
+            {
+                "text": "ГДата",
+                "position": {
+                    "left": 194,
+                    "top": 459,
+                    "width": 30,
+                    "height": 12
+                },
+                "offset": 93
+            },
+            {
+                "text": "дела",
+                "position": {
+                    "left": 232,
+                    "top": 461,
+                    "width": 28,
+                    "height": 9
+                },
+                "offset": 94
+            },
+            {
+                "text": "или",
+                "position": {
+                    "left": 269,
+                    "top": 462,
+                    "width": 23,
+                    "height": 7
+                },
+                "offset": 95
+            },
+            {
+                "text": "край-|Кол-во",
+                "position": {
+                    "left": 301,
+                    "top": 459,
+                    "width": 86,
+                    "height": 13
+                },
+                "offset": 96
+            },
+            {
+                "text": "дел",
+                "position": {
+                    "left": 391,
+                    "top": 462,
+                    "width": 21,
+                    "height": 8
+                },
+                "offset": 97
+            },
+            {
+                "text": "(томов)",
+                "position": {
+                    "left": 417,
+                    "top": 459,
+                    "width": 47,
+                    "height": 12
+                },
+                "offset": 98
+            },
+            {
+                "text": "|Срок",
+                "position": {
+                    "left": 488,
+                    "top": 458,
+                    "width": 32,
+                    "height": 14
+                },
+                "offset": 100
+            },
+            {
+                "text": "хранения",
+                "position": {
+                    "left": 526,
+                    "top": 461,
+                    "width": 58,
+                    "height": 11
+                },
+                "offset": 101
+            },
+            {
+                "text": "и",
+                "position": {
+                    "left": 591,
+                    "top": 462,
+                    "width": 6,
+                    "height": 7
+                },
+                "offset": 102
+            },
+            {
+                "text": "№№[Примечание",
+                "position": {
+                    "left": 604,
+                    "top": 459,
+                    "width": 115,
+                    "height": 13
+                },
+                "offset": 103
+            },
+            {
+                "text": "‘ние",
+                "position": {
+                    "left": 195,
+                    "top": 479,
+                    "width": 22,
+                    "height": 8
+                },
+                "offset": 105
+            },
+            {
+                "text": "даты",
+                "position": {
+                    "left": 221,
+                    "top": 479,
+                    "width": 30,
+                    "height": 8
+                },
+                "offset": 106
+            },
+            {
+                "text": "дел",
+                "position": {
+                    "left": 255,
+                    "top": 479,
+                    "width": 17,
+                    "height": 8
+                },
+                "offset": 107
+            },
+            {
+                "text": "[статей",
+                "position": {
+                    "left": 488,
+                    "top": 476,
+                    "width": 40,
+                    "height": 11
+                },
+                "offset": 108
+            },
+            {
+                "text": "по",
+                "position": {
+                    "left": 534,
+                    "top": 479,
+                    "width": 14,
+                    "height": 8
+                },
+                "offset": 109
+            },
+            {
+                "text": "перчню.",
+                "position": {
+                    "left": 553,
+                    "top": 479,
+                    "width": 55,
+                    "height": 13
+                },
+                "offset": 110
+            },
+            {
+                "text": "Итого.",
+                "position": {
+                    "left": 78,
+                    "top": 514,
+                    "width": 55,
+                    "height": 28
+                },
+                "offset": 112
+            },
+            {
+                "text": "дел",
+                "position": {
+                    "left": 178,
+                    "top": 523,
+                    "width": 29,
+                    "height": 11
+                },
+                "offset": 113
+            },
+            {
+                "text": "за",
+                "position": {
+                    "left": 213,
+                    "top": 523,
+                    "width": 16,
+                    "height": 9
+                },
+                "offset": 114
+            },
+            {
+                "text": "годы.",
+                "position": {
+                    "left": 396,
+                    "top": 523,
+                    "width": 44,
+                    "height": 11
+                },
+                "offset": 115
+            },
+            {
+                "text": "Описи",
+                "position": {
+                    "left": 447,
+                    "top": 518,
+                    "width": 54,
+                    "height": 15
+                },
+                "offset": 116
+            },
+            {
+                "text": "дел",
+                "position": {
+                    "left": 507,
+                    "top": 523,
+                    "width": 28,
+                    "height": 11
+                },
+                "offset": 117
+            },
+            {
+                "text": "за",
+                "position": {
+                    "left": 542,
+                    "top": 523,
+                    "width": 15,
+                    "height": 10
+                },
+                "offset": 118
+            },
+            {
+                "text": "годы",
+                "position": {
+                    "left": 754,
+                    "top": 523,
+                    "width": 40,
+                    "height": 11
+                },
+                "offset": 119
+            },
+            {
+                "text": "утверждены",
+                "position": {
+                    "left": 40,
+                    "top": 546,
+                    "width": 103,
+                    "height": 14
+                },
+                "offset": 121
+            },
+            {
+                "text": "генеральным",
+                "position": {
+                    "left": 150,
+                    "top": 545,
+                    "width": 109,
+                    "height": 15
+                },
+                "offset": 122
+            },
+            {
+                "text": "директором.",
+                "position": {
+                    "left": 266,
+                    "top": 545,
+                    "width": 103,
+                    "height": 15
+                },
+                "offset": 123
+            },
+            {
+                "text": "Председатель",
+                "position": {
+                    "left": 78,
+                    "top": 633,
+                    "width": 115,
+                    "height": 18
+                },
+                "offset": 125
+            },
+            {
+                "text": "комиссии",
+                "position": {
+                    "left": 200,
+                    "top": 638,
+                    "width": 80,
+                    "height": 10
+                },
+                "offset": 126
+            },
+            {
+                "text": "И.",
+                "position": {
+                    "left": 522,
+                    "top": 633,
+                    "width": 17,
+                    "height": 15
+                },
+                "offset": 127
+            },
+            {
+                "text": "И.",
+                "position": {
+                    "left": 547,
+                    "top": 633,
+                    "width": 17,
+                    "height": 14
+                },
+                "offset": 128
+            },
+            {
+                "text": "Иванов",
+                "position": {
+                    "left": 571,
+                    "top": 633,
+                    "width": 61,
+                    "height": 15
+                },
+                "offset": 129
+            },
+            {
+                "text": "(подпись).",
+                "position": {
+                    "left": 430,
+                    "top": 656,
+                    "width": 62,
+                    "height": 11
+                },
+                "offset": 131
+            },
+            {
+                "text": "Члены",
+                "position": {
+                    "left": 78,
+                    "top": 697,
+                    "width": 54,
+                    "height": 14
+                },
+                "offset": 133
+            },
+            {
+                "text": "комиссии",
+                "position": {
+                    "left": 139,
+                    "top": 701,
+                    "width": 80,
+                    "height": 10
+                },
+                "offset": 134
+            },
+            {
+                "text": "В.",
+                "position": {
+                    "left": 577,
+                    "top": 697,
+                    "width": 16,
+                    "height": 14
+                },
+                "offset": 135
+            },
+            {
+                "text": "В.",
+                "position": {
+                    "left": 600,
+                    "top": 697,
+                    "width": 16,
+                    "height": 14
+                },
+                "offset": 136
+            },
+            {
+                "text": "Пстров",
+                "position": {
+                    "left": 624,
+                    "top": 697,
+                    "width": 59,
+                    "height": 18
+                },
+                "offset": 137
+            },
+            {
+                "text": "(подпись)",
+                "position": {
+                    "left": 430,
+                    "top": 720,
+                    "width": 62,
+                    "height": 11
+                },
+                "offset": 139
+            },
+            {
+                "text": "П.",
+                "position": {
+                    "left": 577,
+                    "top": 737,
+                    "width": 17,
+                    "height": 14
+                },
+                "offset": 143
+            },
+            {
+                "text": "П.",
+                "position": {
+                    "left": 601,
+                    "top": 737,
+                    "width": 18,
+                    "height": 14
+                },
+                "offset": 144
+            },
+            {
+                "text": "Потапов",
+                "position": {
+                    "left": 626,
+                    "top": 737,
+                    "width": 70,
+                    "height": 14
+                },
+                "offset": 145
+            },
+            {
+                "text": "‚дпись)",
+                "position": {
+                    "left": 450,
+                    "top": 759,
+                    "width": 42,
+                    "height": 12
+                },
+                "offset": 147
+            }
+        ]
+    ],
+    "source": {
+        "width": 818,
+        "height": 1058
+    }
+}
